@@ -1,4 +1,4 @@
-
+![super store dashboard](./superstore.png "My Dashoard")
 
 
 # SUPERSTORES-DATA-ANALYSIS
